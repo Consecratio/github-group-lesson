@@ -64,7 +64,7 @@ We will all be contributing to the same main repository with just a README.md.
 - Edit the README.md file by adding a picture of your favorite animal. 
 - `git add .` and `git commit -m "your message"` your work. Then run `git push`. 
 - On Github, go ahead and submit a pull request to the central repository. 
-- Watch as your main github humamn fixes merge conflicts, and approves, a few pull requests. Once they are done, run `git pull`. *You will likely need to set A. the upstream branch using the command passed to you from Github, and B. use the full command `git pull upstream branch_name` each time you run the command (as a heads up).*
+- Watch as your main github human fixes merge conflicts, and approves, a few pull requests. Once they are done, run `git pull upstream branch_name`. *Use the full command `git pull upstream branch_name` each time you run the command (as a heads up).*
 
 **What does the README.md now look like on your local machine?**
 
